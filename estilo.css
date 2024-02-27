@@ -1,0 +1,8 @@
+.Manip {
+    display: flex;
+    flex-direction: column;
+}
+
+.itens {
+    weight: 70%;
+}
